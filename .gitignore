@@ -1,0 +1,22 @@
+# Python / backend
+__pycache__/
+*.py[cod]
+*.sqlite3
+.venv/
+env/
+venv/
+.mypy_cache/
+
+# Node / frontend
+node_modules/
+dist/
+.parcel-cache/
+.turbo/
+.next/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
